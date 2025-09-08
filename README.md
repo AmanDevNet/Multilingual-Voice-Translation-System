@@ -82,7 +82,7 @@ In the above output, the input audio wzs recorded in Tamil and output is got wit
 Huge shoutout to the owner of this repository [Whisper](https://github.com/openai/whisper.git) which enabled me to do the translation part and thr owner of this repository [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning.git), which enabled me to implement the voice cloning part.
 
 #### Contact Information
-For inquiries or assistance, please contact me at gokulj@karunya.edu.in.
+For inquiries or assistance, please contact me at theamansharma.27@gmail.com.
 
 #### License
 
