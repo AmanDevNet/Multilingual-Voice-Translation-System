@@ -7,9 +7,13 @@ It leverages OpenAI Whisper for multilingual speech-to-text translation and Real
 🚀 Features
 
  Input speech in Hindi, Tamil, Telugu, and other Indian languages
+ 
  Automatic transcription and translation into English text
+ 
  Generate English audio output with cloned voice
+ 
  Real-time performance with Whisper + Voice Cloning
+ 
  Easy to extend for more languages
 
 **Note**: This project works with Python 3.8.1.
