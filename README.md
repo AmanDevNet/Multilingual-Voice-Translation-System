@@ -1,6 +1,16 @@
-### Voice Translation With Cloning
+🌐 Multilingual Voice Translation System
 
-This project aims to translate user-spoken audio from various languages into English using the same voice as the original speaker. It incorporates OpenAI's Whisper model to convert audio into translated text and utilizes Real-Time Voice Cloning for voice replication.
+This project enables real-time voice translation and cloning, allowing users to speak in Indian regional languages (e.g., Hindi, Tamil, Telugu) and get the output as English text and audio in the same cloned voice.
+
+It leverages OpenAI Whisper for multilingual speech-to-text translation and Real-Time Voice Cloning for generating natural-sounding English speech in the original speaker’s voice.
+
+🚀 Features
+
+ Input speech in Hindi, Tamil, Telugu, and other Indian languages
+ Automatic transcription and translation into English text
+ Generate English audio output with cloned voice
+ Real-time performance with Whisper + Voice Cloning
+ Easy to extend for more languages
 
 **Note**: This project works with Python 3.8.1.
 
@@ -8,8 +18,9 @@ This project aims to translate user-spoken audio from various languages into Eng
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/gokulj2005/Voice-Translation-With-Cloning.git
-   cd Voice-Translation-With-Cloning
+   git clone https://github.com/AmanDevNet/Multilingual-Voice-Translation-System.git
+   cd Multilingual-Voice-Translation-System
+
    ```
 
 2. **Create a Virtual Environment with python 3.8.1:**
@@ -86,7 +97,7 @@ For inquiries or assistance, please contact me at theamansharma.27@gmail.com.
 
 #### License
 
-This project is licensed under the MIT License. If you use this project in your work, kindly acknowledge the source and refer to the repository: [Voice Translation With Cloning](https://github.com/gokulj2005/Voice-Translation-With-Cloning.git).
+This project is licensed under the MIT License. If you use this project in your work, kindly acknowledge the source and refer to the repository: [Multilingual Voice Translation System](git clone https://github.com/AmanDevNet/Multilingual-Voice-Translation-System.git).
 
 #### References
 
